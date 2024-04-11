@@ -1,6 +1,5 @@
-# MolSSI workshop
-this is a test file
+# Git lesson (is markdown file--know with .md at end of name)
 
-now I'm making a different version
+This will cover the basics of using git version control
 
-Now we will add even something else.
+This lesson is for the MolSSI Best Practices Workshop

@@ -8,6 +8,8 @@ This was copied from something else
 
 Now I added a new line!
 
+I added this line via a pull request.
+
 This copy doesn't match the other copy--copy of file is in different branch! 
 
 in git-lesson vs git-lesson-copy

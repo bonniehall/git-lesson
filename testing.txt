@@ -1,3 +1,7 @@
+*****
+This is the header added in the GitHub interface
+*****
+
 This was created by doing a clone, not the below
 
 This was copied from something else
